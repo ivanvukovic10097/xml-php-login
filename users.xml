@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding = "utf-8"?>
+<UsersInfo>
+  <Accounts>
+    <username>ivan_IVAN</username>
+    <email>ivan@ivan.iv</email>
+    <password>123456789</password>
+  </Accounts>
+  <Accounts>
+    <username>pewdiepie</username>
+    <email>youtube@you.tube</email>
+    <password>congratulations</password>
+  </Accounts>
+  <Accounts>
+    <username>jasnajasna</username>
+    <email>jasna@ja.sna</email>
+    <password>JASNAJASNA</password>
+  </Accounts>
+  <Accounts>
+    <username>xmlxmlxml</username>
+    <email>XML@XML.XML</email>
+    <password>XMLXMLXML</password>
+  </Accounts>
+  <Accounts>
+    <username>username</username>
+    <email>email@email.com</email>
+    <password>password</password>
+  </Accounts>
+  <Accounts>
+    <username>eržebet</username>
+    <email>erz@bet.mađ</email>
+    <password>mađarica</password>
+  </Accounts>
+</UsersInfo>
